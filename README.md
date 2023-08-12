@@ -5,6 +5,8 @@ hello my name is Hori, I come from earth, just contact by phone,, I'm here to su
 a little motivation from me:
 be like armpit hair, even if squeezed it still grows
 
+<img src="https://media.tenor.com/VRtIQ2z88F8AAAAC/anime-smile.gif">
+
 <img src="https://user-images.githubusercontent.com/65858180/137301567-37e84890-e360-4f86-9dcc-127ff7f4f85b.gif" >
 
 
