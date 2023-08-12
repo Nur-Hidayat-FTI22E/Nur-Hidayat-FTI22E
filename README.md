@@ -7,8 +7,6 @@ be like armpit hair, even if squeezed it still grows
 
 <img src="https://media.tenor.com/VRtIQ2z88F8AAAAC/anime-smile.gif" width="900" height="80%">
 
-<img src="https://user-images.githubusercontent.com/65858180/137301567-37e84890-e360-4f86-9dcc-127ff7f4f85b.gif" >
-
 
 - 👋 Hi, I’m @Nur-Hidayat-FTI22E
 - 👀 I’m interested in Game develop
@@ -17,3 +15,5 @@ be like armpit hair, even if squeezed it still grows
 - 🔭 I’m currently working with many [organizations](https://coconut.or.id/contact)
 - 🌱 I’m currently learning new things
 - 📫 How to reach me: [Instagram](https://www.instagram.com/dayt_._/)
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fgithub%2Fhow-to-create-a-github-profile-readme-jha&psig=AOvVaw0l6QstPubPi0imMbYYM9F5&ust=1691939522465000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCLC-05bW1oADFQAAAAAdAAAAABBu">
