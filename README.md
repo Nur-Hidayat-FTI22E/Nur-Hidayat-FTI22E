@@ -26,7 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nur-hidayat-fti22e&show_icons=true&locale=en" alt="nur-hidayat-fti22e" /></p>
 
-<p align="align"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nur-hidayat-fti22e&" alt="nur-hidayat-fti22e" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nur-hidayat-fti22e&" alt="nur-hidayat-fti22e" /></p>
 
 <!-- <h2> <img src="https://user-images.githubusercontent.com/65858180/137293079-2440dbff-e887-4b1d-802c-49d49dcfd664.gif" width="30" /> Hi,There! <img src="https://user-images.githubusercontent.com/65858180/137293369-94c631b6-8a17-4256-927a-070da186734c.gif" width="30" /> I Am Horizon </h2>
 
@@ -44,6 +44,7 @@ be like armpit hair, even if squeezed it still grows
 
 -->
   [![An image of @nurhidayatfti22e's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nurhidayatfti22e)](https://holopin.io/@nurhidayatfti22e)
+  <br>
 <b>[You can also send messages via the contact on my portfolio website](https://myporto-nur-hidayat.vercel.app/)</b>
-
+  <br>
 <img src="https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif?raw=true">
