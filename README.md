@@ -16,6 +16,8 @@ be like armpit hair, even if squeezed it still grows
 - 🌱 I’m currently learning new things
 - 📫 How to reach me: [Instagram](https://www.instagram.com/dayt_._/)
 
+  [![An image of @nurhidayatfti22e's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nurhidayatfti22e)](https://holopin.io/@nurhidayatfti22e)
+
 [You can also send messages via the contact on my portfolio website](https://myporto-nur-hidayat.vercel.app/)
 
 <img src="https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif?raw=true">
