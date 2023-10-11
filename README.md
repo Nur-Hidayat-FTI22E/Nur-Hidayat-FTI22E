@@ -1,14 +1,22 @@
 <h1 align="center">Hi 👋, I'm Nur Hidayat</h1>
 <h3 align="center">a little motivation from me: be like armpit hair, even if squeezed it still grows</h3>
 
+<img src="https://media.tenor.com/VRtIQ2z88F8AAAAC/anime-smile.gif" width="900" height="80%">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nur-hidayat-fti22e&label=Profile%20views&color=0e75b6&style=flat" alt="nur-hidayat-fti22e" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nur-hidayat-fti22e" alt="nur-hidayat-fti22e" /></a> </p>
 
-- 🌱 I’m currently learning **new things**
+- 👀 I’m interested in Game develop
+- 🌱 I’m currently learning Php, Golang, Python & MySQL
+- 💞️ I’m looking to collaborate on with anyone
+- 🔭 I’m currently working with many [organizations](https://coconut.or.id/contact)
+- 🌱 I’m currently learning new things
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://stackoverflow.com/users/22723677" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22723677" height="30" width="40" /></a>
+<a href="https://instagram.com/dayt_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dayt_._" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,7 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nur-hidayat-fti22e&show_icons=true&locale=en" alt="nur-hidayat-fti22e" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nur-hidayat-fti22e&" alt="nur-hidayat-fti22e" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nur-hidayat-fti22e&" alt="nur-hidayat-fti22e" /></p>
 
 <!-- <h2> <img src="https://user-images.githubusercontent.com/65858180/137293079-2440dbff-e887-4b1d-802c-49d49dcfd664.gif" width="30" /> Hi,There! <img src="https://user-images.githubusercontent.com/65858180/137293369-94c631b6-8a17-4256-927a-070da186734c.gif" width="30" /> I Am Horizon </h2>
 
@@ -27,15 +35,10 @@ hello my name is Hori, I come from earth, just contact by phone,, I'm here to su
 a little motivation from me:
 be like armpit hair, even if squeezed it still grows
 
-<img src="https://media.tenor.com/VRtIQ2z88F8AAAAC/anime-smile.gif" width="900" height="80%">
+
 
 
 - 👋 Hi, I’m @Nur-Hidayat-FTI22E
-- 👀 I’m interested in Game develop
-- 🌱 I’m currently learning Php, Golang, Python & MySQL
-- 💞️ I’m looking to collaborate on with anyone
-- 🔭 I’m currently working with many [organizations](https://coconut.or.id/contact)
-- 🌱 I’m currently learning new things
 - 📫 How to reach me: [Instagram](https://www.instagram.com/dayt_._/)
 
 
