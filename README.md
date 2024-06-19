@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nur Hidayat</h1>
 <h3 align="center">a little motivation from me: be like armpit hair, even if squeezed it still grows</h3>
-
-<img src="https://i.pinimg.com/736x/6e/e6/38/6ee6383139f9b52dd7bba02deee2c1c8.jpg" width="250" height="30%" align="center">
-
+<div align="center">
+  <img src="https://i.pinimg.com/736x/6e/e6/38/6ee6383139f9b52dd7bba02deee2c1c8.jpg" width="250" height="30%" align="center">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nur-hidayat-fti22e&label=Profile%20views&color=0e75b6&style=flat" alt="nur-hidayat-fti22e" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nur-hidayat-fti22e" alt="nur-hidayat-fti22e" /></a> </p>
