@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nur Hidayat</h1>
 <h3 align="center">a little motivation from me: be like armpit hair, even if squeezed it still grows</h3>
 <div align="center">
-  <img src="https://i.pinimg.com/736x/6e/e6/38/6ee6383139f9b52dd7bba02deee2c1c8.jpg" width="250" height="50%" align="center">
+  <img src="https://i.pinimg.com/736x/6e/e6/38/6ee6383139f9b52dd7bba02deee2c1c8.jpg" width="250" align="center">
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nur-hidayat-fti22e&label=Profile%20views&color=0e75b6&style=flat" alt="nur-hidayat-fti22e" /> </p>
 
